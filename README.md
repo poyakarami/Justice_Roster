@@ -1,6 +1,6 @@
 
-
-DOJ High Command
+> [!TIP]
+> **DOJ High Command**
 --- 
 
 | ... | Name | Rank | Badge |
@@ -13,7 +13,8 @@ DOJ High Command
 | ⚪ | Eliyas Ardavan | Staff | Staff-05 |
 
 
-DOJ Command Team
+> [!TIP]
+> **DOJ Command Team**
 --- 
 
 | ... | Name | Rank | Badge |
@@ -30,7 +31,8 @@ DOJ Command Team
 
 
 
-DOJ Supervisor
+> [!TIP]
+> **DOJ Supervisor**
 --- 
 
 | ... | Name | Rank | Badge |
@@ -51,7 +53,8 @@ DOJ Supervisor
 | 🔵 | Eliyas Ardavan | Corporal | Staff-05 |
 
 
-DOJ Senior Lead Officer
+> [!TIP]
+> **DOJ Senior Lead Officer**
 --- 
 
 | ... | Name | Rank | Badge |
@@ -69,7 +72,9 @@ DOJ Senior Lead Officer
 | 🟢 | Eliyas Ardavan | Senior Lead Officer | Staff-05 |
 
 
-DOJ Officer III
+>
+> [!TIP]
+> **DOJ Officer III**
 --- 
 
 | 🟡 | Eliyas Ardavan | Officer III | Staff-05 |
