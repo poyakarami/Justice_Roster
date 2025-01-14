@@ -51,7 +51,7 @@ DOJ Supervisor
 | 🔵 | Eliyas Ardavan | Corporal | Staff-05 |
 
 
-DOJ EMPLOYEE
+DOJ Senior Lead Officer
 --- 
 
 | ... | Name | Rank | Badge |
@@ -67,6 +67,11 @@ DOJ EMPLOYEE
 | 🟢 | Eliyas Ardavan | Senior Lead Officer | Staff-05 |
 | 🟢 | Eliyas Ardavan | Senior Lead Officer | Staff-05 |
 | 🟢 | Eliyas Ardavan | Senior Lead Officer | Staff-05 |
+
+
+DOJ Officer III
+--- 
+
 | 🟡 | Eliyas Ardavan | Officer III | Staff-05 |
 | 🟡 | Eliyas Ardavan | Officer III | Staff-05 |
 | 🟡 | Eliyas Ardavan | Officer III | Staff-05 |
@@ -92,6 +97,11 @@ DOJ EMPLOYEE
 | 🟡 | Eliyas Ardavan | Officer III | Staff-05 |
 | 🟡 | Eliyas Ardavan | Officer III | Staff-05 |
 | 🟡 | Eliyas Ardavan | Officer III | Staff-05 |
+
+
+DOJ Officer II
+--- 
+
 | ⚫ | Eliyas Ardavan | Officer II | Staff-05 |
 | ⚫ | Eliyas Ardavan | Officer II | Staff-05 |
 | ⚫ | Eliyas Ardavan | Officer II | Staff-05 |
@@ -126,6 +136,11 @@ DOJ EMPLOYEE
 | ⚫ | Eliyas Ardavan | Officer II | Staff-05 |
 | ⚫ | Eliyas Ardavan | Officer II | Staff-05 |
 | ⚫ | Eliyas Ardavan | Officer II | Staff-05 |
+
+
+DOJ Officer I
+--- 
+
 | 🔴 | Eliyas Ardavan | Officer I | Staff-05 |
 | 🔴 | Eliyas Ardavan | Officer I | Staff-05 |
 | 🔴 | Eliyas Ardavan | Officer I | Staff-05 |
@@ -182,6 +197,11 @@ DOJ EMPLOYEE
 | 🔴 | Eliyas Ardavan | Officer I | Staff-05 |
 | 🔴 | Eliyas Ardavan | Officer I | Staff-05 |
 | 🔴 | Eliyas Ardavan | Officer I | Staff-05 |
+
+
+DOJ Officer Trainee
+--- 
+
 | 👮‍♂️ | Eliyas Ardavan | Officer Trainee | Staff-05 |
 | 👮‍♂️ | Eliyas Ardavan | Officer Trainee | Staff-05 |
 | 👮‍♂️ | Eliyas Ardavan | Officer Trainee | Staff-05 |
